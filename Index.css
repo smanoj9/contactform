@@ -1,0 +1,17 @@
+.Form{
+    width: 400px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
+
+#Image{
+    height: 400px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+
+}
